@@ -9,12 +9,8 @@
 
 Passionate about innovative solutions in **Edge Computing** **IoT**, **embedded systems**, and **machine learning**.
 
----
-
 ## 🔬 Research Areas:
 _- **_Edge Computing_** , **IoT (Internet of Things)** , **Machine Learning** , **Computer Architecture** , **Embedded Software**_
-
----
 
 ## 🛠️ Technical Proficiency:
 - **C++**, **GDB**, **Valgrind**, **Linux**, **QT** ,**TCL**, **VIM**, **GIT** 
