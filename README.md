@@ -13,5 +13,4 @@ Passionate about innovative solutions in **Edge Computing** **IoT**, **embedded 
 _- **_Edge Computing_** , **IoT (Internet of Things)** , **Machine Learning** , **Computer Architecture** , **Embedded Software**_
 
 ## 🛠️ Technical Proficiency:
-- **C++**, **GDB**, **Valgrind**, **Linux**, **QT** ,**TCL**, **VIM**, **GIT** 
-- **JavaScript**, **Typescript**, **Angular**, **Node.js** , **REST APIs**, **SQL**, **JIRA**
+_- **C++**, **GDB**, **Valgrind**, **Linux**, **QT** ,**TCL**, **VIM**, **GIT** ,**JavaScript**, **Typescript**, **Angular**, **Node.js** , **REST APIs**, **SQL**, **JIRA**_
