@@ -9,16 +9,13 @@
 
 Passionate about innovative solutions in **Edge Computing** **IoT**, **embedded systems**, and **machine learning**.
 
+---
+
+## 🔬 Research Areas:
+_- **_Edge Computing_** , **IoT (Internet of Things)** , **Machine Learning** , **Computer Architecture** , **Embedded Software**_
 
 ---
 
-### 🧰 Skills & Technologies
-
-| **Skills**                             | **Tools/Technologies**                          |
-|----------------------------------------|------------------------------------------------|
-| **Programming**:  C++ , Python, JavaScript | **Cloud**: AWS, Google Cloud                    |
-| **Machine Learning**: OpenCV, TensorFlow, PyTorch | **Web Technologies**: Node.js, Angular, REST APIs|
-| **IoT**: Embedded Systems, Raspberry Pi   | **Databases**: SQL, MongoDB                    |
-
-
-
+## 🛠️ Technical Proficiency:
+- **C++**, **GDB**, **Valgrind**, **Linux**, **QT** ,**TCL**, **VIM**, **GIT** 
+- **JavaScript**, **Typescript**, **Angular**, **Node.js** , **REST APIs**, **SQL**, **JIRA**
