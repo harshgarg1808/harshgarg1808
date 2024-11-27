@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @harshgarg1808
-- 👀 I’m interested in Software Development. 
-- 🌱 I’m currently learning Backend Development , IoT , ML
-- 💞️ I’m looking to collaborate with agile Development Teams , Startups 
-- 📫 How to reach me https://www.linkedin.com/in/harsh-garg-82466b190/
-- 📫 Checkout my GITLAB Profile: https://gitlab.com/harshgarg1808
+## 👋 About Me
 
-<!---
-harshgarg1808/harshgarg1808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💼 **R&D Engineer** at Siemens EDA (mentor graphics)
+- 🌐 Contributor to Open Source Projects @FOSSASIA  
+- 🎓 Electrical Engineering Graduate, DTU '23  
+- 📚 Google Scholar : [Research](https://scholar.google.com/citations?user=ibhxWO4AAAAJ&hl=en)  
+- 📧 Email: [harshgarg1808@gmail.com](mailto:harshgarg1808@gmail.com)  
+
+Passionate about innovative solutions in **Edge Computing** **IoT**, **embedded systems**, and **machine learning**.
+
