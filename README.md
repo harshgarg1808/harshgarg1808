@@ -16,8 +16,8 @@ Passionate about innovative solutions in **Edge Computing** **IoT**, **embedded 
 
 | **Skills**                             | **Tools/Technologies**                          |
 |----------------------------------------|------------------------------------------------|
-| **Programming**: Python, JavaScript, C/C++ | **Cloud**: AWS, Google Cloud                    |
-| **Machine Learning**: TensorFlow, PyTorch | **Web Technologies**: Node.js, Angular, REST APIs|
+| **Programming**:  C++ , Python, JavaScript | **Cloud**: AWS, Google Cloud                    |
+| **Machine Learning**: OpenCV, TensorFlow, PyTorch | **Web Technologies**: Node.js, Angular, REST APIs|
 | **IoT**: Embedded Systems, Raspberry Pi   | **Databases**: SQL, MongoDB                    |
 
 
