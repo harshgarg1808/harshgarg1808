@@ -6,7 +6,7 @@
 - 🏔️ Certified Mountaineer over 15+ Treks
 - 📚 Google Scholar : [Research Profile](https://scholar.google.com/citations?user=ibhxWO4AAAAJ&hl=en)  
 - 📧 Email: [harshgarg1808@gmail.com](mailto:harshgarg1808@gmail.com)
-- 📄 Resume : [Resume (Updated - Dec'25)](https://docs.google.com/document/d/1NWuA8VEf3XE92Xj9EspxzBGT7XlxapqC/edit?usp=sharing&ouid=116321279178279028499&rtpof=true&sd=true)  
+- 📄 Resume : [Resume (Updated - Dec'25)](https://drive.google.com/file/d/1GDXhaFkk160O3TVfHlt7tG24Ksknqmvb/view?usp=sharing)  
 
 ## 🔬 Research Areas:
 _- **_Edge Computing_** , **IoT (Internet of Things)** , **Machine Learning** , **Computer Architecture** , **Embedded Software**_
